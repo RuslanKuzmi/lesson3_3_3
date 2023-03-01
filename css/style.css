@@ -1,0 +1,41 @@
+@import url("reset.css");
+
+h1,
+h2{
+	color: purple;
+}
+
+
+
+
+/* 
+.text{
+	color: orange;
+} */
+
+
+div.text{
+	color: red;
+}
+
+.text ul{
+	color: red;
+}
+
+ul,
+ol{	
+	color: green;
+}
+
+.test .text{ 
+	color: red;
+}  
+
+[class*="_ruslan"]{
+	color: chartreuse;
+}
+
+.vitalik *{
+	color: cyan;
+}
+
